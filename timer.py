@@ -12,7 +12,7 @@ class timer:
 			if s >= 60:
 				m += 1
 				s = 0
-			if m > 60:
+			if m >= 60:
 				h += 1
 				m = 0
 				s = 0
