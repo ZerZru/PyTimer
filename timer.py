@@ -1,3 +1,5 @@
+__author__ = 'Elisey Sharov'
+
 import time
 
 class timer:
